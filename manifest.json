@@ -600,7 +600,9 @@
           "githubUrl": "https://github.com/pytest-dev/pytest-asyncio",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/cfad9a02ad3d6f1bdac669a2f26d05f9b48cc49f/chunk-001.nq.gz",
+      "dep": "dep/cfad9a02ad3d6f1bdac669a2f26d05f9b48cc49f.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
