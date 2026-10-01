@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/eudoxa/commit/cfad9a02ad3d6f1bdac669a2f26d05f9b48cc49f",
       "git:hexsha": "cfad9a02ad3d6f1bdac669a2f26d05f9b48cc49f",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
