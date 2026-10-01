@@ -36,10 +36,58 @@
       "repolex:graphType": "ast",
       "repolex:graphFilePath": "aggregate/ast/cfad9a02ad3d6f1bdac669a2f26d05f9b48cc49f/chunk-001.nq.gz",
       "repolex:graphFileSize": 3975018
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "lsp",
+      "repolex:graphFilePath": "aggregate/lsp/cfad9a02ad3d6f1bdac669a2f26d05f9b48cc49f.nq.gz",
+      "repolex:graphFileSize": 379173
     }
   ],
-  "repolex:parseStatus": "ast_complete",
+  "repolex:parseStatus": "enrich_complete",
   "repolex:parsedAt": "2026-10-01T08:11:14.936091+00:00",
   "repolex:parserVersion": "0.1.10",
-  "git:tagName": "main"
+  "git:tagName": "main",
+  "repolex:dependencyRepo": [
+    {
+      "@id": "https://repolex.ai/r/anthropics/anthropic-sdk-python",
+      "repolex:packageName": "anthropic",
+      "git:hexsha": "d7c0974ce6ab94ca135b10b2a45308203c0e0c7e",
+      "git:tagName": "v0.86.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/fastapi/fastapi",
+      "repolex:packageName": "fastapi"
+    },
+    {
+      "@id": "https://repolex.ai/r/encode/httpx",
+      "repolex:packageName": "httpx"
+    },
+    {
+      "@id": "https://repolex.ai/r/sponsors/Kludex",
+      "repolex:packageName": "uvicorn"
+    },
+    {
+      "@id": "https://repolex.ai/r/numpy/numpy",
+      "repolex:packageName": "numpy"
+    },
+    {
+      "@id": "https://repolex.ai/r/pandas-dev/pandas",
+      "repolex:packageName": "pandas"
+    },
+    {
+      "@id": "https://repolex.ai/r/pydantic/pydantic",
+      "repolex:packageName": "pydantic",
+      "git:hexsha": "aeb8fd0255bf034212e808b92893283adc9f8d3a",
+      "git:tagName": "v2.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/pytest-dev/pytest",
+      "repolex:packageName": "pytest"
+    },
+    {
+      "@id": "https://repolex.ai/r/pytest-dev/pytest-asyncio",
+      "repolex:packageName": "pytest-asyncio"
+    }
+  ]
 }

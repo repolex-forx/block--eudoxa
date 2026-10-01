@@ -512,6 +512,94 @@
       ],
       "ast": [
         "aggregate/ast/cfad9a02ad3d6f1bdac669a2f26d05f9b48cc49f/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/cfad9a02ad3d6f1bdac669a2f26d05f9b48cc49f.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "anthropic",
+          "ecosystem": "PYPI",
+          "version": "0.86.0",
+          "githubOrg": "anthropics",
+          "githubRepo": "anthropic-sdk-python",
+          "githubCommit": "d7c0974ce6ab94ca135b10b2a45308203c0e0c7e",
+          "githubTag": "v0.86.0",
+          "githubUrl": "https://github.com/anthropics/anthropic-sdk-python",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "fastapi",
+          "ecosystem": "PYPI",
+          "version": "0.115",
+          "githubOrg": "fastapi",
+          "githubRepo": "fastapi",
+          "githubUrl": "https://github.com/fastapi/fastapi",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "httpx",
+          "ecosystem": "PYPI",
+          "version": "0.27",
+          "githubOrg": "encode",
+          "githubRepo": "httpx",
+          "githubUrl": "https://github.com/encode/httpx",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "uvicorn",
+          "ecosystem": "PYPI",
+          "version": "0.30",
+          "githubOrg": "sponsors",
+          "githubRepo": "Kludex",
+          "githubUrl": "https://github.com/sponsors/Kludex",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "numpy",
+          "ecosystem": "PYPI",
+          "version": "1.26",
+          "githubOrg": "numpy",
+          "githubRepo": "numpy",
+          "githubUrl": "https://github.com/numpy/numpy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pandas",
+          "ecosystem": "PYPI",
+          "version": "2.2",
+          "githubOrg": "pandas-dev",
+          "githubRepo": "pandas",
+          "githubUrl": "https://github.com/pandas-dev/pandas",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pydantic",
+          "ecosystem": "PYPI",
+          "version": "2.0",
+          "githubOrg": "pydantic",
+          "githubRepo": "pydantic",
+          "githubCommit": "aeb8fd0255bf034212e808b92893283adc9f8d3a",
+          "githubTag": "v2.0",
+          "githubUrl": "https://github.com/pydantic/pydantic",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "8.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-asyncio",
+          "ecosystem": "PYPI",
+          "version": "0.24",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest-asyncio",
+          "githubUrl": "https://github.com/pytest-dev/pytest-asyncio",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
