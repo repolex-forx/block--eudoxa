@@ -1,0 +1,15 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/block/eudoxa",
+  "@type": "gh:Repository",
+  "gh:name": "eudoxa",
+  "gh:owner": "block",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/block/eudoxa/commit/cfad9a02ad3d6f1bdac669a2f26d05f9b48cc49f",
+      "git:hexsha": "cfad9a02ad3d6f1bdac669a2f26d05f9b48cc49f",
+      "repolex:parseStatus": "metadata_complete",
+      "git:tagName": "main"
+    }
+  ]
+}
