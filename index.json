@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "eudoxa",
+  "versions": [
+    {
+      "commit": "cfad9a02ad3d6f1bdac669a2f26d05f9b48cc49f",
+      "tag": "main",
+      "parsed_at": "2026-10-01T08:23:36.592280+00:00"
+    }
+  ]
+}
